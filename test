@@ -1,0 +1,31 @@
+Assignment 2
+
+Quiz System
+
+- Read questions from File, one question per line
+
+Question File
+
+------------------------------
+
+Java is Platform dependent, N
+
+int is premetive data type, Y
+
+------------------------------
+
+- Allow multiple student to attempt quiz
+
+- Show questions (1 - 10), one question at a time
+
+- User can input Y/N for entering response to each question.
+
+- In case of incorrect response, user should be prompted to enter either Y/N.
+
+- Store each student quiz result in file
+
+- After completing the questions.  Show result
+
+ 
+
+Create Appropriate classes wherever necessary.
